@@ -1,0 +1,26 @@
+{
+  "name": "n-dimensional-random",
+  "version": "1.0.0",
+  "description": "An n-dimensional random number generator",
+  "main": "rng.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadiSalehWeb/n-dimensional-random.git"
+  },
+  "keywords": [
+    "rng",
+    "random",
+    "dimensional",
+    "dimension",
+    "noise"
+  ],
+  "author": "Hadi Saleh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HadiSalehWeb/n-dimensional-random/issues"
+  },
+  "homepage": "https://github.com/HadiSalehWeb/n-dimensional-random#readme"
+}
