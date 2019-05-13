@@ -1,19 +1,20 @@
 # n-dimensional-random
 An n-dimensional random number generator.
 
-NPM:
+###NPM
 
 ```
 npm install n-dimensional-random
 ```
 
 
-Example:
+###Example
 
 ```javascript
 const RNG = require('rng.js');
 
-const next = RNG(Date.now(), 2);
+const next2 = RNG(Date.now(), 2), next3 = RNG(Date.now(), 3);
 
-let rand1 = next(0, 0), rand2 = next(1, 14);
+console.log(next2(1, 2));//a random number between 0 and 1
+console.log(next3(1, 2, 3));//a random number between 0 and 1
 ```
