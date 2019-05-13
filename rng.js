@@ -13,4 +13,4 @@ const RNG = function (seed, dimension) {
     return (...point) => fract(Math.abs(Math.sin(dot(point, vec))) * 43758.5453123);
 };
 
-exports = RNG;
+module.exports = RNG;

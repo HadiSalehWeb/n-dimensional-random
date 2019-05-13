@@ -1,6 +1,6 @@
 {
   "name": "n-dimensional-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An n-dimensional random number generator",
   "main": "rng.js",
   "scripts": {
