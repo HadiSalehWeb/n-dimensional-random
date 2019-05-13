@@ -1,14 +1,14 @@
 # n-dimensional-random
 An n-dimensional random number generator.
 
-###NPM
+### NPM
 
 ```
 npm install n-dimensional-random
 ```
 
 
-###Example
+### Example
 
 ```javascript
 const RNG = require('rng.js');
