@@ -1,6 +1,12 @@
 # n-dimensional-random
 An n-dimensional random number generator.
 
+NPM:
+
+```
+npm install n-dimensional-random
+```
+
 
 Example:
 
